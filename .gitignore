@@ -1,5 +1,5 @@
 # training images
-#animals/
+animals/
 
 # models pycache files
 models/__*
